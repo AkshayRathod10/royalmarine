@@ -1,7 +1,7 @@
 <?php include 'templates/header.php'; ?>
 
 <div class="main-banner">
-    <div class="container">
+    <div class="container products">
         <div class="row">
             <div class="col-md-3">
                 <h4>Categories</h4>

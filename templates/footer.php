@@ -1,98 +1,96 @@
 <!-- ***** Footer Start ***** -->
 <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3">
-                    <div class="first-item">
-                        <div class="logo">
-                            <img src="assets/images/logo_resized.jpg" alt="Royal Marine Aquarium">
-                        </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="first-item">
+                    <div>
+                        <img src="assets/images/logo-removebg-resized.png" alt="Royal Marine Aquarium">
+                    </div>
+                    <ul>
+                        <li><a href="#">3/10 Sahyadri cottage, Jogeshwari east, Natwar nagar road no - 05, Mumbai 400060</a></li>
+                        <li><a href="mailto:royalmarine2991@gmail.com">royalmarine2991@gmail.com</a></li>
+                        <li><a href="tel:9619332991">9619332991</a> / <a href="tel:9773199523">9773199523</a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- <div class="col-lg-4">
+                <h4>Services</h4>
+                <ul>
+                    <li>Dry products</li>
+                    <li>Live stock</li>
+                    <li>Maintenance</li>
+                    <li>Custom tanks</li>
+                </ul>
+            </div> -->
+
+            <div class="col-lg-4">
+                <h4>Bank details</h4>
+                <div class="mb-2">Account Holder: ROYAL MARINE AQUARIUM</div>
+                <div class="mb-2">Account Number: 50200047263192</div>
+                <div class="mb-2">IFSC: HDFC0000086</div>
+                <div class="mb-2">Branch: ANDHERI EAST VISHAL HALL</div>
+                <div class="mb-2">Account Type: CURRENT</div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h4>Services</h4>
                         <ul>
-                            <li><a href="#">16501 Collins Ave, Sunny Isles Beach, FL 33160, United States</a></li>
-                            <li><a href="mailto:royalmarine2991@gmail.com">royalmarine2991@gmail.com</a></li>
-                            <li><a href="tel:9619332991">9619332991</a> / <a href="tel:9773199523">9773199523</a></li>
+                            <li>Dry products</li>
+                            <li>Live stock</li>
+                            <li>Maintenance</li>
+                            <li>Custom tanks</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <h4>Pages</h4>
+                        <ul>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="index.phph">Services</a></li>
+                            <li><a href="products.php">Products</a></li>
+                            <li><a href="index.php#subscribe">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-3">
-                    <h4>Shopping &amp; Categories</h4>
+
+            </div>
+            <div class="col-lg-12">
+                <div class="under-footer">
+                    <p>Copyright © 2022 Royal Maring Aquarium. All Rights Reserved.
                     <ul>
-                        <li><a href="#">Men’s Shopping</a></li>
-                        <li><a href="#">Women’s Shopping</a></li>
-                        <li><a href="#">Kid's Shopping</a></li>
+                        <li><a href="instagram.com/royal_marine29"><img src="assets/images/instagram_.png" alt=""></a></li>
                     </ul>
-                </div>
-                <div class="col-lg-3">
-                    <h4>Useful Links</h4>
-                    <ul>
-                        <li><a href="#">Homepage</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">Contact Us</a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-3">
-                    <h4>Help &amp; Information</h4>
-                    <ul>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">FAQ's</a></li>
-                        <li><a href="#">Shipping</a></li>
-                        <li><a href="#">Tracking ID</a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-12">
-                    <div class="under-footer">
-                        <p>Copyright © 2022 Royal Maring Aquarium. All Rights Reserved.
-                        <ul>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"><i class="fa fa-behance"></i></a></li>
-                        </ul>
-                    </div>
                 </div>
             </div>
         </div>
-    </footer>
+    </div>
+</footer>
 
 
-    <!-- jQuery -->
-    <script src="assets/js/jquery-2.1.0.min.js"></script>
+<!-- jQuery -->
+<script src="assets/js/jquery-2.1.0.min.js"></script>
 
-    <!-- Bootstrap -->
-    <script src="assets/js/popper.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
+<!-- Bootstrap -->
+<script src="assets/js/popper.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
 
-    <!-- Plugins -->
-    <script src="assets/js/owl-carousel.js"></script>
-    <script src="assets/js/accordions.js"></script>
-    <script src="assets/js/datepicker.js"></script>
-    <script src="assets/js/scrollreveal.min.js"></script>
-    <script src="assets/js/waypoints.min.js"></script>
-    <script src="assets/js/jquery.counterup.min.js"></script>
-    <script src="assets/js/imgfix.min.js"></script>
-    <script src="assets/js/slick.js"></script>
-    <script src="assets/js/lightbox.js"></script>
-    <script src="assets/js/isotope.js"></script>
+<!-- Plugins -->
+<script src="assets/js/scrollreveal.min.js"></script>
+<script src="assets/js/waypoints.min.js"></script>
+<script src="assets/js/imgfix.min.js"></script>
 
-    <!-- Global Init -->
-    <script src="assets/js/custom.js"></script>
-
-    <script>
-        $(function() {
-            var selectedClass = "";
-            $("p").click(function() {
-                selectedClass = $(this).attr("data-rel");
-                $("#portfolio").fadeTo(50, 0.1);
-                $("#portfolio div").not("." + selectedClass).fadeOut();
-                setTimeout(function() {
-                    $("." + selectedClass).fadeIn();
-                    $("#portfolio").fadeTo(50, 1);
-                }, 500);
-
-            });
+<!-- Global Init -->
+<script src="assets/js/custom.js"></script>
+<script src="assets/js/paginga.jquery.js"></script>
+<script>
+    $(function() {
+        $(".paginate").paginga({
+            itemsPerPage: 16,
         });
-    </script>
+    });
+</script>
 
 </body>
 

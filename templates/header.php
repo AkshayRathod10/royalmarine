@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;display=swap" rel="stylesheet">
-
+    <link rel="icon" type="image/x-icon" href="assets/images/fav.ico">
     <title>Royal Marine Aquarium</title>
 
 
@@ -19,9 +19,7 @@
 
     <link rel="stylesheet" href="assets/css/templatemo-hexashop.css">
 
-    <link rel="stylesheet" href="assets/css/owl-carousel.css">
-
-    <link rel="stylesheet" href="assets/css/lightbox.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
 <body>
@@ -45,7 +43,7 @@
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
                         <a href="index.html" class="logo">
-                            <img src="assets/images/logo_resized.jpg">
+                            <img src="assets/images/logo_90.jpg">
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
@@ -54,7 +52,7 @@
                             <!-- <li class="scroll-to-section"><a href="#men">About Us</a></li> -->
                             <li class="scroll-to-section"><a href="index.php">Services</a></li>
                             <li class="scroll-to-section"><a href="products.php">Products</a></li>
-                            <li class="scroll-to-section"><a href="index.php">Contact Us</a></li>
+                            <li class="scroll-to-section"><a href="index.php#subscribe">Contact Us</a></li>
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>
