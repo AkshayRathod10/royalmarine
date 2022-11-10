@@ -2,18 +2,34 @@
 
 <!-- ***** Main Banner Area Start ***** -->
 <div class="main-banner" id="top">
-    <!-- <div class="left-content">
-        <div class="thumb">
-            <div class="inner-content">
-                <h4>Royal Marine Aquarium</h4>
-                <span>Awesome, clean &amp; creative HTML5 Template</span>
-                <div class="main-border-button">
-                    <a href="#">Purchase Now!</a>
+    <div class="container mb-5">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-100" src="assets/images/banner.png" alt="First slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="assets/images/banner.png" alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="assets/images/banner.png" alt="Third slide">
                 </div>
             </div>
-            <img src="assets/images/dmitry-bukhantsov-IBrZ-TXYWY8-unsplash.jpg" alt="">
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
-    </div> -->
+    </div>
     <section class="section">
         <div class="container">
             <div class="row">

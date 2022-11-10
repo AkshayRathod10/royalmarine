@@ -30,8 +30,14 @@
                     <div class="category">
                         Category: <?= ucfirst(strtolower($product_data['category'])); ?>
                     </div>
-                    <div class="main-border-button">
-                        <a href="#subscribe">Contact Us</a>
+                    <div class="main-border-button mt-3">
+                        <a href="index.php#subscribe" class="btn btn-primary">Contact Us</a>
+                        <?php 
+                        
+                            $product_name =  urlencode($product_data["product_name"]);
+                            $link = "https://wa.me/919619332991?text=I%20want%20to%20purchase%20-%20$product_name";
+                        ?>
+                        <a href="<?php echo $link ?>" class="whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
                     </div>
                 </div>
                 <div class="col-md-12 mt-5">

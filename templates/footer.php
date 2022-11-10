@@ -59,9 +59,10 @@
             <div class="col-lg-12">
                 <div class="under-footer">
                     <p>Copyright © 2022 Royal Maring Aquarium. All Rights Reserved.
-                    <ul>
-                        <li><a href="instagram.com/royal_marine29"><img src="assets/images/instagram_.png" alt=""></a></li>
-                    </ul>
+                    <div class="social-media mt-3">
+                        <a href="https://www.instagram.com/royal_marine29" class="mr-2"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=100073642146164" class="mr-2"><i class="fa-brands fa-facebook"></i></a>                        
+                    </div>
                 </div>
             </div>
         </div>

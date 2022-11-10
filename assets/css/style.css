@@ -45,7 +45,37 @@
     height: 250px;
 }
 
-footer{
-    color:#fff;
+footer {
+    color: #fff;
+    font-size: 14px;
+}
+
+.social-media i {
+    font-size: 25px;
+    color: #fff;
+}
+
+.main-banner {
+    padding-top: 130px;
+}
+
+a.whatsapp {
+    color: black;
+}
+ 
+.whatsapp i{
+    font-size: 30px;
+}
+
+.btn-primary {
+    background-color: black;
+}
+
+.btn-primary:hover {
+    border-color: black;
+}
+
+.main-border-button a {
+    padding: 10px 15px;
     font-size: 14px;
 }
