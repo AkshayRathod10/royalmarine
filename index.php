@@ -11,7 +11,7 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="assets/images/banner.png" alt="First slide">
+                    <img class="d-block w-100" src="assets/images/banner_1.jpeg" alt="First slide">
                 </div>
                 <div class="carousel-item">
                     <img class="d-block w-100" src="assets/images/banner.png" alt="Second slide">
@@ -30,7 +30,7 @@
             </a>
         </div>
     </div>
-    <section class="section">
+    <section class="section" id="services">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -176,6 +176,63 @@
     </div>
 </section>
 <!-- ***** Men Area Ends ***** -->
+
+<!-- ***** Subscribe Area Starts ***** -->
+<div class="subscribe" id="subscribe">
+    <div class="container">
+        <div class="section-heading">
+            <h2>Brands</h2>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <img src="assets/images/brand_1.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_2.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_3.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_4.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_5.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_6.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_7.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_8.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_9.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_10.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_11.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_12.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_13.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/brand_14.png" alt="">
+            </div>
+            <div class="col-md-2">
+                <img src="assets/images/test.png" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ***** Subscribe Area Ends ***** -->
 
 <!-- ***** Subscribe Area Starts ***** -->
 <div class="subscribe" id="subscribe">

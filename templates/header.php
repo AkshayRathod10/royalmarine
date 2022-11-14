@@ -42,7 +42,7 @@
                 <div class="col-12">
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
-                        <a href="index.html" class="logo">
+                        <a href="index.php" class="logo">
                             <img src="assets/images/logo_90.jpg">
                         </a>
                         <!-- ***** Logo End ***** -->
@@ -50,7 +50,7 @@
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="index.php">Home</a></li>
                             <!-- <li class="scroll-to-section"><a href="#men">About Us</a></li> -->
-                            <li class="scroll-to-section"><a href="index.php">Services</a></li>
+                            <li class="scroll-to-section"><a href="index.php#services">Services</a></li>
                             <li class="scroll-to-section"><a href="products.php">Products</a></li>
                             <li class="scroll-to-section"><a href="index.php#subscribe">Contact Us</a></li>
                         </ul>

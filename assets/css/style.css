@@ -33,8 +33,8 @@
     color: gray;
 }
 
-#products a.active {
-    color: orange;
+.products a.active {
+    color: #F3E300;
 }
 
 .pager {

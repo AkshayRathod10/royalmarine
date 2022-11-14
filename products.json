@@ -853,7 +853,7 @@
         "price": "\u20b92455.00",
         "category": "WATER FILTERATION & TREATMENT",
         "image": "biopellets-np-reducing-500ml-598x598.jpg",
-        "description": "\nBioPellets are consumed by bacteria, which is why new pellets need to be added every 6-12 months to compensate for digested filter media\n"
+        "description": "\nBioPellets are consumed by bacteria, which is why new pellets need to be added every 6-12 months to compensate for digested fILTER MEDIA\n"
     },
     "108": {
         "No": "108",
@@ -1131,7 +1131,7 @@
         "No": "142",
         "product_name": "Redsea Coral Pro Salt 22kg",
         "price": "\u20b97000",
-        "category": "Marine Salt",
+        "category": "MARINE SALT",
         "image": "1322_n77kcsichef1-598x598.jpg",
         "description": "\nRed Sea Coral Pro Salt contains biologically balanced, elevated levels of the foundation elements necessary for sustainable, accelerated coral growth. Red Sea Coral Pro Salt is ideal for reef aquariums, in particular for LPS and SPS corals, and for growing coral frags. Red Sea Coral Pro Salt is a specialty salt mix formulated for today’s advanced reef aquariums. A scientifically formulated marine salt is based on using pure water. This is necessary to accurately calculate all the elements required to recreate tropical seawater. It is the best way to create a baseline salt formulation that most precisely mirrors the reef environment. Research laboratories and professional aquaculture facilities often use ultra-pure reverse osmosis and deionized mineral-free water for mixing saltwater. Reef aquarists using RO or RO/DI can have this same level of “saltwater perfection” with Red Sea Coral Pro Salt. Coral Pro Salt is intended to stimulate growth of SPS and LPS corals in aquariums and frag tanks. The coral-building process of calcification demands adequate levels of Foundation Elements: calcium, magnesium and bio-available carbonates. These elements play a key role in coral metabolism and growth, pH stabilization and ionic strength of the saltwater. Coral Pro Salt contains the levels of foundation elements and trace elements necessary for coral growth in your aquarium. You wont have to use additives to “fix” your freshly made saltwater!\n"
     },
@@ -1139,7 +1139,7 @@
         "No": "143",
         "product_name": "Quantum HR Nitrate Remover",
         "price": "\u20b9872",
-        "category": "Filter Media",
+        "category": "FILTER MEDIA",
         "image": "3602_1_592Quantum_HR_nitrate_remover.jpg",
         "description": "\nQuantum HR Nitrate Remover is designed for aquariums that have higher than 15ppm nitrate.It is formulated specifically to reduce high nitrate within marine/reef environments and works by providing bioavailable carbon sources to denitrifying bacteria present in media, deep sand beds & inner pores of live rock.The bacteria oxidise the carbon into carbon dioxide while reducing nitrate to chemically inert nitrogen gas. If you are experiencing nitrate 15ppm or lower, we recommend using our LR Nitrate Remover\n"
     },
@@ -1147,7 +1147,7 @@
         "No": "144",
         "product_name": "Quantum Phosphate Remover",
         "price": "\u20b9872",
-        "category": "Filter Media",
+        "category": "FILTER MEDIA",
         "image": "3612_1_88Quantum_Phosphate_Remover.jpg",
         "description": "\nQuantum Phosphate Remover - Phosphate Remover is designed to eliminate both ionic & chemically bound phosphate in marine/reef aquariums.Phosphate exists as ionic and chemically bound by calcium, this causes fluctuations of calcium, stunted coral growth rates as well as the false reading of low phosphate due to the inability for test kits to be able to test for bound phosphate. Media & carbon sources remove the ionic phosphate but take long to remove the bound phosphate due to its high stability.Our phosphate remover will precipitate out both ionic and chemically bound phosphate and place it in existing filter wool/socks. Note: A fine white film building on the glass indicates that you are overdosing, we recommend adjusting your dose and using our White Film Remover to safely clean any build up.\n"
     },
@@ -1155,7 +1155,7 @@
         "No": "145",
         "product_name": "Coral Feast Coral Food 60G",
         "price": "\u20b91290",
-        "category": "Coral Food",
+        "category": "CORAL FOOD",
         "image": "Best_Coral_Food.png",
         "description": "\nWillows Reef Coral Feast is a powdered food supplement, designed to entice a feeding response from filter-feeding Corals and invertebrates, and is formulated to promote and stimulate growth and coloration.Coral Feast was formulated to help promote the best color and growth of your corals.It is made with 100% natural ingredients with no fillers.\n"
     },
@@ -1163,7 +1163,7 @@
         "No": "146",
         "product_name": "RedSea Reef Energy Plus AB 500ML",
         "price": "\u20b92040",
-        "category": "Coral Foods and Amino Acids",
+        "category": "CORAL FOODS AND AMINO ACIDS",
         "image": "3893_1_542.jpg",
         "description": "\nAn all-in-one superfood that will have your corals thanking you, delivering better growth, higher resilience, brighter colors, greater ease of use with automatic dosers, and minimal over skimming.Based on our long-term research, Reef Energy Plus is an enhanced supplement that provides the complete nutritional components needed by Soft, LPS, SPS, and non-photosynthetic corals for vitality, growth, and coloration.\n"
     },
@@ -1171,47 +1171,39 @@
         "No": "147",
         "product_name": "Redsea No3Po4x",
         "price": "\u20b91530",
-        "category": "Algae Cleaners",
+        "category": "ALGAE CLEANERS",
         "image": "3877_1_398.jpg",
         "description": "\nRed Sea NO3 PO4 X is a unique complex of carbons that are used by nutrient reducing bacteria. Each carbon in the complex is utilized by different strains of microorganisms while ensuring the specific Carbon, Nitrogen, and Phosphorus ratio required for each stage.The Red Sea NO3  PO4 X complex includes other organic-bonded elements that are important stimulators in each stage of the reduction process. These metal and non-metals elements ensure steady bacterial propagation, complete nitrate reduction to nitrogen gas as well as the absorption and utilization of phosphate by the bacteria.\n"
     },
     "148": {
         "No": "148",
-        "product_name": "Redsea No3Po4x",
-        "price": "\u20b91530",
-        "category": "Algae Cleaners",
-        "image": "3877_1_398.jpg",
-        "description": "\nRed Sea NO3 PO4 X is a unique complex of carbons that are used by nutrient reducing bacteria. Each carbon in the complex is utilized by different strains of microorganisms while ensuring the specific Carbon, Nitrogen, and Phosphorus ratio required for each stage.The Red Sea NO3  PO4 X complex includes other organic-bonded elements that are important stimulators in each stage of the reduction process. These metal and non-metals elements ensure steady bacterial propagation, complete nitrate reduction to nitrogen gas as well as the absorption and utilization of phosphate by the bacteria.\n"
-    },
-    "149": {
-        "No": "149",
         "product_name": "Hikari Marine S 50gm",
         "price": "\u20b9405",
-        "category": "Marine Fish Food",
+        "category": "MARINE FISH FOOD",
         "image": "Hikari_Marine_S_50gm.jpg",
         "description": "\nContains numerous necessary high-level proteins marine fish require & garlic too!, When used as a daily diet you can expect vibrant coloration and desirable form as a result of the finely tuned, highly flavorful nutrient mix. This proprietary pellet, sinks slowly while rapidly becoming sponge-like and replicating the texture of a live reef environment.\n"
     },
-    "150": {
-        "No": "150",
+    "149": {
+        "No": "149",
         "product_name": "PolypLab Reef Safe Medic",
         "price": "",
-        "category": "Treatments",
+        "category": "TREATMENTS",
         "image": "Polyp_Lab_Reef_Safe_Medic.png",
         "description": "\nMedic is a highly effective water conditioner used to de-pollute water in both marine and freshwater environments. It contains a reef-safe oxidizing agent and is particularly effective against Marine Ich - Crytopocaryon Irritant as well as others. \n"
     },
-    "151": {
-        "No": "151",
+    "150": {
+        "No": "150",
         "product_name": "ReefRevolution Parasite Remover 50gm",
         "price": "",
-        "category": "Treatments",
+        "category": "TREATMENTS",
         "image": "ReefRevolution_Parasite_Remover_50gm.jpg",
         "description": "\nReef Revolution reef safe parasite treatment is a highly effective reef safe method for treating fish parasites such as Marine Ich (Cryptocaryon Irritants), freshwater Ich (Ichthyophthirius) and Marine Velvet (Amyloodinium Ocellatum). Use as directed on product label for best results.Marine Ich has a long life cycle and treatment is recommended for a minimum of 14 days\n"
     },
-    "152": {
-        "No": "152",
+    "151": {
+        "No": "151",
         "product_name": "Hikari Marine A 110gm",
         "price": "\u20b9615",
-        "category": "Marine Fish Food",
+        "category": "MARINE FISH FOOD",
         "image": "Hikari_Marine_A_110gm.jpg",
         "description": "\nOffers essential fatty acids and necessary high-level proteins as part of the scientifically balanced nutrition.Contains clam extract which improves palatability, even finicky eaters will love it.Offers seaweed meal and pure-cultured spirulina to meet the nutritional requirements of plant eating marine fishes, while providing them the nutrient sources they require to look like they just came off the reef.A unique blend of necessary nutrients which help support immune system health.Softens rapidly while triggering natural, instinctual grazing. The easily digested formula aids utilization thereby reducing waste output and helping to improve water quality with continued use.\n"
     }
