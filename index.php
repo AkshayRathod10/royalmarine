@@ -75,7 +75,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <img src="assets/images/live_stock.jpg">
+                                <img src="assets/images/clownfishes.jpg">
                             </div>
                         </div>
                     </div>
@@ -93,7 +93,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <img src="assets/images/maintenance.jpg">
+                                <img src="assets/images/maintenance.jpeg">
                             </div>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <img src="assets/images/tank.jpg">
+                                <img src="assets/images/custom_tank_1.jpeg">
                             </div>
                         </div>
                     </div>
@@ -256,7 +256,7 @@
                     </div>
                     <div class="col-6">
                         <ul>
-                            <li>Work Hours:<br><span>07:30 AM - 9:30 PM Daily</span></li>
+                            <li>Work Hours:<br><span>10:00 AM - 6:00 PM Monday to Saturday</span></li>
                             <li>Email:<br><span><a href="mailto:royalmarine2991@gmail.com">royalmarine2991@gmail.com</a></span></li>
                         </ul>
                     </div>
