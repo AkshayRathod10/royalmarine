@@ -162,6 +162,8 @@
                             </div>
                         </div>
                     <?php endforeach; ?>
+                    <div class="clearfix"></div>
+                    <br>
                     <div class="pager">
                         <div class="firstPage">&laquo;</div>
                         <div class="previousPage">&lsaquo;</div>
