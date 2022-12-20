@@ -52,6 +52,7 @@
                             <!-- <li class="scroll-to-section"><a href="#men">About Us</a></li> -->
                             <li class="scroll-to-section"><a href="index.php#services">Services</a></li>
                             <li class="scroll-to-section"><a href="products.php">Products</a></li>
+                            <li class="scroll-to-section"><a href="live-stock.php">Live Stock</a></li>
                             <li class="scroll-to-section"><a href="index.php#subscribe">Contact Us</a></li>
                         </ul>
                         <a class='menu-trigger'>
