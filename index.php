@@ -180,7 +180,7 @@
 <!-- ***** Men Area Ends ***** -->
 
 <!-- ***** Subscribe Area Starts ***** -->
-<div class="subscribe" id="subscribe">
+<div class="subscribe">
     <div class="container">
         <div class="section-heading">
             <h2>Brands</h2>

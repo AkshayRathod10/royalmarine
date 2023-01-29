@@ -37,7 +37,7 @@
                             $product_name =  urlencode($product_data["product_name"]);
                             $link = "https://wa.me/919619332991?text=I%20want%20to%20purchase%20-%20$product_name";
                         ?>
-                        <a href="<?php echo $link ?>" class="whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
+                        <a href="<?php echo $link ?>" target="_blank" class="whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
                     </div>
                 </div>
                 <div class="col-md-12 mt-5">

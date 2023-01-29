@@ -22,7 +22,7 @@
                 ?>
                 <?php if (file_exists($src)) : ?>
                     <div class="col-md-4">
-                        <div class="m-3">
+                        <div class="m-3 text-center">
                             <?= "<image src='$src'>"; ?>
                             <div class="fish-name text-center mt-2">
                                 <?= $single['Name']; ?>
