@@ -32,7 +32,6 @@
         $search = $_POST['search'];
     }
 
-    print_r($products[1]);
 
     ?>
     <div class="container">
@@ -60,10 +59,19 @@
                     <?php if (preg_match('/' . $search . '/', $product['product_name'])) : ?>
 
                         <tr>
-                            <th><?= $product['No'] ?></th>
-                            <td><?= $product['product_name'] ?></td>
-                            <td><?= $product['price'] ?></td>
-                            <td> <a href="#">Edit</a> </td>
+                            <th id="No_<?= $key; ?>"><?= $product['No'] ?> </th>
+                            <td id="product_name_<?= $key; ?>">
+                                <span><?= $product['product_name'] ?></span>
+                                <input class="form-control" style="display:none" type="text" name="product_name" value="<?= $product['product_name'] ?>">
+                            </td>
+                            <td id="price_<?= $key; ?>">
+                                <span><?= $product['price'] ?></span>
+                                <input class="form-control" style="display:none" type="text" name="price" value="<?= $product['price'] ?>">
+                            </td>
+                            <td id="action_<?= $key; ?>">
+                                <a href="#" class="edit" data-no='<?= $key; ?>'>Edit</a>
+                                <a href="#" class="save" style="display:none;" data-no='<?= $key; ?>'>Save</a>
+                            </td>
                         </tr>
 
                     <?php endif; ?>
@@ -74,7 +82,48 @@
 
     <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
 
+    <script>
+        $(document).ready(function() {
+            $('.edit').click(function() {
 
+                var no = $(this).data('no');
+
+                $('#product_name_' + no + ' span').hide();
+                $('#product_name_' + no + ' input').show();
+
+                $('#price_' + no + ' span').hide();
+                $('#price_' + no + ' input').show();
+
+                $('#action_'+no+' .edit').hide();
+                $('#action_'+no+' .save').show();
+            })
+
+            $('.save').click(function() {
+
+                var no = $(this).data('no');
+                var product_name = $('#product_name_' + no + ' input').val();
+                var price = $('#price_' + no + ' input').val();
+
+                var post = {
+                    "save": no,
+                    "product_name": product_name,
+                    "price": price
+                };
+
+                $.ajax({
+                    url: "save.php",
+                    type: "POST",
+                    data: post,
+                    success: function(result) {
+                        location.reload(true);
+                    },
+                    error: function(jqxhr, status, exception) {
+                        console.log('status:', exception);
+                    }
+                });
+            })
+        });
+    </script>
 
     <body>
 
